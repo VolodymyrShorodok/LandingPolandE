@@ -1,0 +1,20 @@
+{
+  "name": "polandeducation",
+  "version": "1.0.0",
+  "description": "Poland education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shorodok Volodymyr",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "fsevents": "^1.2.4"
+  }
+}
